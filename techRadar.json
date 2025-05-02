@@ -1,0 +1,69 @@
+{
+    "entries": [
+      {
+        "id": "1",
+        "title": "CCReact",
+        "description": "Bla bla A JavaScript library for building user interfaces",
+        "quadrant": "Frameworks",
+        "ring": "Adopt",
+        "moved": 0
+      },
+      {
+        "id": "2",
+        "title": "GraphQL",
+        "description": "A query language for your API",
+        "quadrant": "Languages",
+        "ring": "Trial",
+        "moved": 1
+      },
+      {
+        "id": "3",
+        "title": "Docker",
+        "description": "A platform for developing, shipping, and running applications",
+        "quadrant": "Infrastructure",
+        "ring": "Adopt",
+        "moved": -1
+      },
+      {
+        "id": "4",
+        "title": "Kubernetes",
+        "description": "An open-source system for automating deployment, scaling, and management of containerized applications",
+        "quadrant": "Infrastructure",
+        "ring": "Assess",
+        "moved": 2
+      },
+      {
+        "id": "5",
+        "title": "TypeScript",
+        "description": "A typed superset of JavaScript that compiles to plain JavaScript",
+        "quadrant": "Languages",
+        "ring": "Adopt",
+        "moved": 0
+      },
+      {
+        "id": "6",
+        "title": "Jenkins",
+        "description": "An open-source automation server",
+        "quadrant": "Tools",
+        "ring": "Hold",
+        "moved": -2
+      },
+      {
+        "id": "7",
+        "title": "Terraform",
+        "description": "An open-source infrastructure as code software tool",
+        "quadrant": "Infrastructure",
+        "ring": "Trial",
+        "moved": 1
+      },
+      {
+        "id": "8",
+        "title": "Vue.js",
+        "description": "A progressive JavaScript framework for building user interfaces",
+        "quadrant": "Frameworks",
+        "ring": "Assess",
+        "moved": 0
+      }
+    ]
+  }
+  
