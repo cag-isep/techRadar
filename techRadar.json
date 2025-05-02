@@ -28,27 +28,6 @@
       {
         "timeline": [
           {
-            "moved": 1,
-            "ringId": "adopt",
-            "date": "2025-05-02T00:00:00.000Z",
-            "description": "Bla bla bla"
-          }
-        ],
-        "key": "docker",
-        "id": "docker",
-        "title": "docker",
-        "quadrant": "infrastruture",
-        "links": [
-          {
-            "url": "https://www.docker.com/",
-            "title": "Learn more"
-          }
-        ],
-        "description": "Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels. All containers share the OS kernel of the host machine and, where appropriate, binaries and libraries. Containers take up less space than virtual machines, and start up almost instantly. Docker is a company that provides an open source project and commercial software for automating the deployment of applications inside software containers."  
-      },
-      {
-        "timeline": [
-          {
             "moved": -1,
             "ringId": "adopt",
             "date": "2020-08-06T00:00:00.000Z",
