@@ -77,6 +77,10 @@
           "quadrant": "process",
           "links": [
             {
+              "url": "https://efacecpws.sharepoint.com/:b:/s/GitHubCopilot/EYF0vQIxtglFg4_UZDkBDswB8OKXaJYt1kPz59cs7SPdnQ?e=oc9osb",
+              "title": "Installation"
+              }, 
+            {
               "url": "https://aws.amazon.com/q/developer/",
               "title": "Learn more"
             },
