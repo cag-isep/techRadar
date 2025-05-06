@@ -80,7 +80,19 @@
             {
               "moved": 1,
               "ringId": "adopt",
+              "date": "2025-03-01T00:00:00.000Z",
+              "description": "Code Assistance is a feature of IDEs that provides intelligent code completion, code analysis, and refactoring tools to help developers write code more efficiently."
+            },
+            {
+              "moved": 1,
+              "ringId": "trial",
               "date": "2025-01-01T00:00:00.000Z",
+              "description": "Code Assistance is a feature of IDEs that provides intelligent code completion, code analysis, and refactoring tools to help developers write code more efficiently."
+            },
+            {
+              "moved": 0,
+              "ringId": "assess",
+              "date": "2024-10-01T00:00:00.000Z",
               "description": "Code Assistance is a feature of IDEs that provides intelligent code completion, code analysis, and refactoring tools to help developers write code more efficiently."
             }
           ],
