@@ -62,6 +62,33 @@
         "description": "GitHub Copilot is a code completion and automatic programming tool developed by GitHub and OpenAI that assists users of Visual Studio Code, Visual Studio, Neovim, and JetBrains integrated development environments by autocompleting code. "
         },
 
+        {
+          "timeline": [
+            {
+              "moved": 1,
+              "ringId": "adopt",
+              "date": "2025-01-01T00:00:00.000Z",
+              "description": "Code Assistance is a feature of IDEs that provides intelligent code completion, code analysis, and refactoring tools to help developers write code more efficiently."
+            }
+          ],
+          "key": "AmazonQ",
+          "id": "AmazonQ",
+          "title": "Amazon Q Developer",
+          "quadrant": "process",
+          "links": [
+            {
+              "url": "https://aws.amazon.com/q/developer/",
+              "title": "Learn more"
+            },
+              {
+                  "url": "https://app.powerbi.com/links/rYDAmsknLi?ctid=47f9d039-bc91-42a1-ac76-ce783feec88b&pbi_source=linkShare&bookmarkGuid=07318db1-73ff-44a6-9069-04db9e0841c6",
+                  "title": "Efacec Assessment"
+              }
+          ],
+          "description": "Assists developers by providing code suggestions, documentation, and testing tools via various integrated development environments (IDEs) and command line interfaces. "
+          },
+  
+
       {
         "timeline": [
           {
