@@ -126,7 +126,7 @@
               "key": "AzureDevOps",
               "id": "AzureDevOps",
               "title": "Azure DevOps",
-              "quadrant": "infrastruture",
+              "quadrant": "infrastructure",
               "links": [
                   {
                   "url": "https://azure.microsoft.com/en-us/services/devops/",
