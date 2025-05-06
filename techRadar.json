@@ -6,7 +6,7 @@
       {
         "timeline": [
           {
-            "moved": 1,
+            "moved": 0,
             "ringId": "assess",
             "date": "2013-01-01T00:00:00.000Z",
             "description": "A framework for building web applications, developed by Facebook"
@@ -29,7 +29,7 @@
       {
         "timeline": [
           {
-            "moved": 1,
+            "moved": 0,
             "ringId": "hold",
             "date": "2016-01-01T00:00:00.000Z",
             "description": "A framework for building web applications, developed by Google"
@@ -198,7 +198,7 @@
             "moved": 1,
             "ringId": "adopt",
             "date": "2025-05-02T00:00:00.000Z",
-            "description": "Bla bla bla"
+            "description": "OS-level virtualization to deliver software in packages called containers"
           }
         ],
         "key": "docker",
@@ -263,25 +263,25 @@
         "id": "adopt",
         "name": "ADOPT",
         "color": "#5BA300",
-        "description": "Commodi accusantium culpa sed itaque excepturi rem eum nulla possimus."
+        "description": "Mature, well-understood, and have proven to be effective in production environments."
       },
       {
         "id": "trial",
         "name": "TRIAL",
         "color": "#009EB0",
-        "description": "Recusandae possimus ipsum dolores."
+        "description": "Promising and have shown potential in pilot projects or limited production use."
       },
       {
         "id": "assess",
         "name": "ASSESS",
         "color": "#C7BA00",
-        "description": "In asperiores repellat error recusandae et adipisci laborum porro."
+        "description": "New and need to be evaluated to understand their potential impact and applicability."
       },
       {
         "id": "hold",
         "name": "HOLD",
         "color": "#E09B96",
-        "description": "Esse mollitia in."
+        "description": "Not recommended for use due to various reasons such as instability, lack of support, or better alternatives."
       }
     ]
   }
