@@ -73,7 +73,7 @@
           ],
           "key": "AmazonQ",
           "id": "AmazonQ",
-          "title": "Amazon Q Developer",
+          "title": "Amazon Q",
           "quadrant": "process",
           "links": [
             {
@@ -112,7 +112,33 @@
               }
             ],
             "description": "A management solution designed to help teams set strategies, prioritize features, and create visually appealing roadmaps to manage and communicate product plans effectively."
-            },   
+            },  
+            
+            {
+              "timeline": [
+                {
+                  "moved": 0,
+                  "ringId": "adopt",
+                  "date": "2024-01-01T00:00:00.000Z",
+                  "description": "Provides a comprehensive set of services for software development, including planning, tracking, building, testing, and deploying applications across various languages and platforms."
+                }
+              ],
+              "key": "AzureDevOps",
+              "id": "AzureDevOps",
+              "title": "Azure DevOps",
+              "quadrant": "infrastruture",
+              "links": [
+                  {
+                  "url": "https://azure.microsoft.com/en-us/services/devops/",
+                  "title": "Learn more"
+                  },
+                {
+                  "url": "https://dev.azure.com/",
+                  "title": "Efacec DevOps"
+                }
+              ],
+              "description": "Azure DevOps is a platform that supports software development with cloud or on-premises services. "
+              },
 
       {
         "timeline": [
