@@ -192,9 +192,14 @@
           {
             "url": "https://www.rust-lang.org/",
             "title": "Learn more"
+          },
+          {
+            "url": "https://endoflife.date/rust",
+            "title": "End of Life"
           }
+
         ],
-        "description": "Rust is a fast, reliable, and productive programming language that can run on embedded devices, web services, and more. Learn how to get started, why Rust is different, and what companies are using it in production."
+        "description": "Rust is a fast, reliable, and productive programming language that can run on embedded devices, web services, and more."
         }
     ],
     "quadrants": [
