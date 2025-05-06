@@ -91,27 +91,7 @@
           ],
           "description": "Assists developers by providing code suggestions, documentation, and testing tools via various integrated development environments (IDEs) and command line interfaces. "
           },
-          {
-            "timeline": [
-              {
-                "moved": 1,
-                "ringId": "adopt",
-                "date": "2025-01-01T00:00:00.000Z",
-                "description": "A solution to help teams streamline processes from product discovery to delivery. "
-              }
-            ],
-            "key": "aha",
-            "id": "aha",
-            "title": "Aha!",
-            "quadrant": "process",
-            "links": [
-              {
-                "url": "http://aha.io/roadmaps/overview",
-                "title": "Learn more"
-              }
-            ],
-            "description": "A management solution designed to help teams set strategies, prioritize features, and create visually appealing roadmaps to manage and communicate product plans effectively."
-            },
+          
 
       {
         "timeline": [
