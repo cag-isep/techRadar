@@ -166,7 +166,7 @@
       "key": "docker",
       "id": "docker",
       "title": "docker",
-      "quadrant": "infrastruture",
+      "quadrant": "infrastructure",
       "links": [
         {
           "url": "https://www.docker.com/",
