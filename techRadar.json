@@ -6,34 +6,47 @@
       {
         "timeline": [
           {
-            "moved": 0,
-            "ringId": "adopt",
-            "date": "2020-08-06T00:00:00.000Z"
+            "moved": 1,
+            "ringId": "assess",
+            "date": "2013-01-01T00:00:00.000Z",
+            "description": "A framework for building web applications, developed by Facebook"
           }
         ],
         "links": [
           {
-            "url": "https://reactjs.org/",
+            "url": "https://react.dev/",
             "title": "Learn more"
           }
+
         ],
         "key": "react",
         "id": "react",
         "title": "React",
-        "quadrant": "frameworks"
+        "quadrant": "frameworks",
+        "description": "React is a JavaScript library for building user interfaces, developed by Facebook. It allows developers to create reusable UI components and manage the state of their applications efficiently."
       },
+      
       {
         "timeline": [
           {
-            "moved": 0,
-            "ringId": "adopt",
-            "date": "2020-08-06T00:00:00.000Z"
+            "moved": 1,
+            "ringId": "hold",
+            "date": "2016-01-01T00:00:00.000Z",
+            "description": "A framework for building web applications, developed by Google"
           }
         ],
-        "key": "code-reviews",
-        "id": "code-reviews",
-        "title": "Code Reviews",
-        "quadrant": "process"
+        "links": [
+          {
+            "url": "https://angular.dev/",
+            "title": "Learn more"
+          }
+
+        ],
+        "key": "angular",
+        "id": "angular",
+        "title": "Angular",
+        "quadrant": "frameworks",
+        "description": "Angular is a platform for building mobile and desktop web applications, developed by Google. It provides a comprehensive set of tools and libraries for building complex applications with a focus on performance and maintainability."
       },
 
       {
@@ -140,44 +153,21 @@
               "description": "Azure DevOps is a platform that supports software development with cloud or on-premises services. "
               },
 
+      
       {
         "timeline": [
           {
-            "moved": 0,
-            "ringId": "assess",
-            "date": "2020-08-06T00:00:00.000Z"
-          }
-        ],
-        "key": "mob-programming",
-        "id": "mob-programming",
-        "title": "Mob Programming",
-        "quadrant": "process"
-      },
-      {
-        "timeline": [
-          {
-            "moved": 0,
+            "moved": 1,
             "ringId": "adopt",
-            "date": "2020-08-06T00:00:00.000Z"
+            "date": "2025-01-01T00:00:00.000Z"
           }
         ],
-        "key": "docs-like-code",
-        "id": "docs-like-code",
-        "title": "Docs-like-code",
-        "quadrant": "process"
+        "key": "infrastructure-as-code",
+        "id": "infrastructure-as-code",
+        "title": "Infrastructure as Code",
+        "quadrant": "infrastructure"
       },
-      {
-        "timeline": [
-          {
-            "ringId": "hold",
-            "date": "2020-08-06T00:00:00.000Z"
-          }
-        ],
-        "key": "force-push",
-        "id": "force-push",
-        "title": "Force push to master",
-        "quadrant": "process"
-      },
+      
       {
         "timeline": [
           {
